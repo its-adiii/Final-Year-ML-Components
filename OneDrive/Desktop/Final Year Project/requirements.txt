@@ -1,0 +1,40 @@
+# IoT Devices Security using Blockchain and ML
+# Core ML Libraries
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+joblib==1.3.2
+
+# Blockchain & Cryptography
+web3==6.8.0
+pycryptodome==3.18.0
+hashlib-additional==1.0.0
+
+# IoT Communication
+paho-mqtt==1.6.1
+aiocoap==0.4.5
+
+# Data Processing & Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.16.1
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+requests==2.31.0
+flask==2.3.3
+flask-cors==4.0.0
+
+# Edge ML & Model Optimization
+onnx==1.14.0
+onnxruntime==1.15.1
+
+# Logging & Monitoring
+loguru==0.7.0
+
+# Testing
+pytest==7.4.0
+pytest-asyncio==0.21.1
